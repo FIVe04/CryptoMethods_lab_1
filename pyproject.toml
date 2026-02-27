@@ -1,0 +1,10 @@
+[project]
+name = "lab-1-crypto"
+version = "0.1.0"
+description = "Signed document exchange app for lab 1"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "customtkinter>=5.2.2",
+    "pycryptodome>=3.21.0",
+]
