@@ -1,0 +1,23 @@
+# macOS
+.DS_Store
+
+# Python cache/artifacts
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+.venv/
+venv/
+
+# IDE
+.idea/
+.vscode/
+
+# Runtime data
+data/keys/
+data/pk/
+
+# Local test artifacts
+test/*.pub
+test/*.sd
